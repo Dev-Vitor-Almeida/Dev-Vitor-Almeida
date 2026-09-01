@@ -12,7 +12,7 @@ Me chamo Vitor Almeida. Atualmente, estou cursando Análise e Desenvolvimento de
  <img aling="left"
  alt="HTML"
  title="HTML"
- width="30px"
+ width="40px"
  style="padding-ringht: 10px;"  
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -20,7 +20,7 @@ Me chamo Vitor Almeida. Atualmente, estou cursando Análise e Desenvolvimento de
 aling="left"
 alt="CSS"
 title="CSS"
-width="30px"
+width="40px"
 style="padding-ringht: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -28,7 +28,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 aling="left"
 alt="JavaScript"
 title="JavaScript"
-width="30px"
+width="40px"
 style="padding-ringht: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -36,7 +36,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 aling="left"
 alt="Java"
 title="Java"
-width="30px"
+width="40px"
 style="padding-ringht: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
@@ -44,14 +44,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 aling="left"
 alt="Java"
 title="Java"
-width="30px"
+width="40px"
 style="padding-ringht: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img 
 aling="left"
 alt="MySQL"
 title="MySQL"
-width="30px"
+width="40px"
 style="padding-ringht: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
@@ -59,7 +59,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 aling="left"
 alt="git"
 title="git"
-width="30px"
+width="40px"
 style="padding-ringht: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
